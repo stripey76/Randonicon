@@ -1,0 +1,10 @@
+const cardboardFact = extend( GenericCrafter, "cardboard-fabricator", {});
+cardboardFact.drawer = new DrawSmelter();
+const brimiteDecon = extend( GenericCrafter, "brimite-deconstructor", {});
+brimiteDecon.drawer = new DrawSmelter();
+const ironSifter = extend( GenericCrafter, "iron-sifter", {});
+ironSifter.drawer = new DrawRotator();
+const brimiteFact = extend( GenericCrafter, "brimite-smelter", {});
+brimiteFact.drawer = new DrawSmelter();
+const iriniteFact = extend( GenericCrafter, "irinite-smelter", {});
+iriniteFact.drawer = new DrawSmelter();
