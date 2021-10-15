@@ -9,6 +9,7 @@
 • Over 40 units, with various classes: **laser, tank, interceptor, gunship, support tanks, twins, some v5 mechs, electric, fire, etc.**
 
 • Community-suggested content.
+
 • A plethora of (particularly useless) items, factories, etc.
 
 • Extremely unbalanced, uncomfortable amount of content and terrible sprites. (I'm WORKING ON IT!!)
