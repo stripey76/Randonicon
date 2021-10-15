@@ -62,7 +62,8 @@
 
 • The Named BOSS - Concepts
 
-• Gamatoto - Balancing, Concepts\n
+• Gamatoto - Balancing, Concepts
+
 • [Nikolass](https://github.com/NikolassOfficial) - Concepts, Balancing
 
 • Hecc - *Comedy*, Advertising
