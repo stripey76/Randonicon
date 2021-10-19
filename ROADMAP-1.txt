@@ -1,0 +1,16 @@
+
+• Wait for V7 to release (duh)
+• adapt to v7 modding because i am dum v6 modder
+• improve any and all sprites by slight amounts 
+• begin testing code files and experimentation
+• balance Legacy Randonicon content more thoroughly, balance suggestions are acceptable
+• re-check content thoroughly to make sure it all functions
+• begin remaking msavs in the mod to adapt to  the new-gen randonicon content, or even worse: remake the maps entirely
+• adapt Clesia to v7 standards, if possible
+• possibly make an archive directory for either scrapped or deprecated content
+• add Details and Descriptions to all (or most) blocks with thorough lore depth.
+• possibly get new SFX for various turrets, if possible
+• re-balance everything again because im paranoid
+• rework lore in the events that things dont line up
+• add a topic to the github repo so that its actually visible to the public
+
