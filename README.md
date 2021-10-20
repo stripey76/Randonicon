@@ -66,6 +66,8 @@
 
 • Gamatoto - Balancing, Concepts
 
+• Antlrr - Faction Sprites
+
 • [Nikolass](https://github.com/NikolassOfficial) - Concepts, Balancing
 
 • Hecc - *Comedy*, Advertising
