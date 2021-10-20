@@ -39,7 +39,7 @@
 
 `Maps:`
 
-`Misc. Blocks:`
+`Misc:`
 
 # Creditboard
 
@@ -75,4 +75,4 @@
 If you wish to contact me more consistently or just want to hang out with other people, you can join our discord here: https://discord.gg/DWKPugsTMM
 **Keep in mind this server is not 100% centered around the mod, it is a hub.**
 
-*This is also your only real method of getting suggestions or issues to my attention, i don't look on github often except when i am.*
+*This is also your only real method of getting suggestions or issues to my attention, i don't look on github often.*
