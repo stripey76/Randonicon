@@ -26,7 +26,7 @@
 ## Release Build 1.0
 
 • Initial build commit, I'll add an actual changelog when i update this mod after release.
-
+![sadness](https://media.discordapp.net/attachments/867152372098924554/900142694150578236/jungle-mockup.png)
 ## Total content counter
 
 `Turrets:`
