@@ -1,6 +1,11 @@
 ![RandoniconBanner](https://user-images.githubusercontent.com/92567126/137442553-35430b25-7f37-475a-b0b2-699ccb411610.png)
 # Randonicon
 
+**BEFORE YOU PLAY:
+I must make it aware that this mod uses different art styles that dont follow mindustry's style like at all
+if you hate "cringe"/"badly made" mods, DO NOT PLAY**
+*I don't wish to deal with this man i've been accused of my bad sprite style enough*
+
 ## Content
 • Over 60+ turrets: **Super weapons, Vessel weapons, Joke Turrets, and even higher tier (and lower tier) versions of vanilla turrets for fun.**
 
