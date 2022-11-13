@@ -1,5 +1,5 @@
 ![RandoniconBanner](https://user-images.githubusercontent.com/92567126/137442553-35430b25-7f37-475a-b0b2-699ccb411610.png)
-# Randonicon
+# Randonicon [CURRENTLY ARCHIVED]
 
 **BEFORE YOU PLAY:
 I must make it aware that this mod uses different art styles that dont follow mindustry's style like at all
